@@ -1,5 +1,5 @@
 # 08b15
-08b15 is a small project for generating symmetrical visual compositions with geometrical shapes.
+08b15 is a small pygame project for generating symmetrical visual compositions with geometrical shapes.
 
 <img src="https://github.com/tfari/08b15/blob/master/screenshot.png" width="400">
 
@@ -62,7 +62,7 @@
 <img src="https://github.com/tfari/08b15/blob/master/screens/output_2019-12-03%2003%2C37%2C04.png" width="500">
 <img src="https://github.com/tfari/08b15/blob/master/screens/output_2019-12-03%2003%2C49%2C39.png" width="500">
 <img src="https://github.com/tfari/08b15/blob/master/screens/output_2019-12-03%2003%2C51%2C25.png" width="500">
-
+<img src="https://github.com/tfari/08b15/blob/master/screens/output_2019-12-03%2006%2C03%2C13.png" width="500">
                                                                                          
 
 
